@@ -1,0 +1,41 @@
+header{
+	background-image: url("../images/3.jpg");
+	background-size: 100%;/*changes the background image size to fullest*/
+	padding :3%;/*changes the height of the image*/
+	margin: 2%;
+	
+
+}
+
+h1{
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 300%;
+
+}
+nav{
+	text-align: center;
+	font-size: 150%;
+}
+nav a{
+	background-color: #FFFFFF;
+	opacity: 0.4;
+	color: #000000;
+	display: inline-block;
+	border-radius: 5px;
+	margin: 1%;
+	padding:10px;
+}
+.active{
+	background-color: #FFFFFF;
+	opacity: 1;
+
+
+}
+h2{
+	text-align:center;
+}
+p{
+	text-align: center;
+	font-size: 100%;
+}
